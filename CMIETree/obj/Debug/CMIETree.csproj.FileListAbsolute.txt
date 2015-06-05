@@ -1,0 +1,8 @@
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\bin\Debug\CMIETree.dll
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\bin\Debug\CMIETree.pdb
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\obj\Debug\CMIETree.SetParamentersForm.resources
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\obj\Debug\CMIETree.TreeForm.resources
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\obj\Debug\CMIETree.TvForm.resources
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\obj\Debug\CMIETree.csproj.GenerateResource.Cache
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\obj\Debug\CMIETree.dll
+E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\obj\Debug\CMIETree.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Command">
+      <Assembly>E:\CMIE\Development Projects\Source Code\CMIETree\CMIETree\bin\Debug\CMIETree.dll</Assembly>
+      <AddInId>054e0e25-adc5-4657-b0e0-d831ac1c40c3</AddInId>
+      <FullClassName>CMIETree.CmdShowDialog</FullClassName>
+      <Text>CMIE TreeView</Text>
+      <VendorId>CMIE</VendorId>
+      <VendorDescription>CMIE, www.cmie.cn</VendorDescription>	  
+   </AddIn>
+</RevitAddIns>
